@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>乐清市沃泰电气有限公司</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+        }
+        nav {
+            background-color: #444;
+            color: #fff;
+            text-align: center;
+            padding: 0.5rem;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        .container {
+            margin: 2rem auto;
+            max-width: 800px;
+            padding: 0 1rem;
+        }
+        .section {
+            margin-bottom: 2rem;
+        }
+        .section h2 {
+            color: #333;
+        }
+        .section p {
+            color: #666;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>乐清市沃泰电气有限公司</h1>
+    </header>
+    <nav>
+        <a href="#about">公司简介</a>
+        <a href="#products">产品展示</a>
+        <a href="#cases">过往案例</a>
+        <a href="#contact">联系方式</a>
+    </nav>
+    <div class="container">
+        <div id="about" class="section">
+            <h2>公司简介</h2>
+            <p>乐清市沃泰电气有限公司成立于XX年，专注于电气产品出口，主营业务为避雷器的研发、生产和销售。公司秉承着“专业、质量、服务”的理念，致力于为客户提供高品质的电气产品。</p>
+        </div>
+        <div id="products" class="section">
+            <h2>产品展示</h2>
+            <!-- 在这里插入产品展示的内容 -->
+        </div>
+        <div id="cases" class="section">
+            <h2>过往案例</h2>
+            <!-- 在这里插入过往案例的内容 -->
+        </div>
+        <div id="contact" class="section">
+            <h2>联系方式</h2>
+            <p>公司地址：XX省XX市XX区XX街道XX号</p>
+            <p>联系电话：123-456-7890</p>
+            <p>电子邮箱：info@example.com</p>
+        </div>
+    </div>
+    <footer>
+        &copy; 2024 乐清市沃泰电气有限公司. All Rights Reserved.
+    </footer>
+</body>
+</html>
